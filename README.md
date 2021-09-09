@@ -1,6 +1,6 @@
 # current-pv-datasheets
 
-A small selection of up to date PV datasheets, as relevant to me. Retrieved from manufacturers, correct for Australia. 
+A small selection of up to date PV datasheets, as relevant to me. Retrieved from manufacturers, correct for Australia at date of upload.  
 
 Included are PV Panels, Module Level Power Electronics (MLPE), Inverters and Batteries, from manufacturers including:
 
